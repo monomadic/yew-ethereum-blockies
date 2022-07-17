@@ -1,0 +1,10 @@
+[package]
+name = "yew-ethereum-blockies"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+blockies = "0.3"
+base64 = "0.13"
+hex = "0.4.3"
+yew = { git = "https://github.com/yewstack/yew" }
